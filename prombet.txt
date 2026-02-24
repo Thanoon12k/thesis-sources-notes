@@ -1,0 +1,23 @@
+build ready project to me
+the project is my thesis resources orgnize categoriez and manage  
+to manage resources i use in my thesis like pargraph,reference
+
+the app consist from main one mini windows contain pargraph to write or past button
+ and under it the referenec box to write the paragraph reference 
+and many options like categorey,page and ref link and the reference numbebr and 
+any other options may be usefull 
+ my thesis is engeering thesis which use iee [xx]
+i want to support choose multi thesis or papers to chose from them and want to
+ open the pdf file or docx file who iam working on it
+and want list of references to manage them add neccery functions and utilizations
+ based on similar apps want my app to be like tool using any modern python libs 
+to open on windowed shape
+in the middle of the screen  
+:
+take consider these points must be included:
+-ask me if  you need any forther information
+-ready for production free from errors
+-media support
+-smart modern ui
+-ready to push on github and gitignore file
+-
